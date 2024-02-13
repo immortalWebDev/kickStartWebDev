@@ -1,6 +1,5 @@
-In this task you want to provide the user a facility that if has misspelled some information, then he is able to correct it via an edit button.
-
-
+In this task you want to provide the user a facility that if has misspelled some information,
+then he is able to correct it via an edit button.
 
 Deliverables:
 
@@ -8,4 +7,5 @@ Deliverables:
 
 2. Inside the 'li' add an edit button after the delete button.
 
-3. When you click on this edit button, the user details should be removed from the screen and from the local storage and should populate the input fields with the existing values.
+3. When you click on this edit button, the user details should be removed from the screen and from
+  the local storage and should populate the input fields with the existing values.
